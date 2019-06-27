@@ -1,0 +1,14 @@
+F:\RENTACAR\AracKiralama\AracKiralama.Entities\obj\Debug\AracKiralama.Entities.csprojAssemblyReference.cache
+F:\RENTACAR\AracKiralama\AracKiralama.Entities\obj\Debug\AracKiralama.Entities.csproj.CoreCompileInputs.cache
+C:\Users\PComputer\Desktop\AracKiralama\AracKiralama.Entities\bin\Debug\AracKiralama.Entities.dll
+C:\Users\PComputer\Desktop\AracKiralama\AracKiralama.Entities\bin\Debug\AracKiralama.Entities.pdb
+C:\Users\PComputer\Desktop\AracKiralama\AracKiralama.Entities\obj\Debug\AracKiralama.Entities.csprojAssemblyReference.cache
+C:\Users\PComputer\Desktop\AracKiralama\AracKiralama.Entities\obj\Debug\AracKiralama.Entities.csproj.CoreCompileInputs.cache
+C:\Users\PComputer\Desktop\AracKiralama\AracKiralama.Entities\obj\Debug\AracKiralama.Entities.dll
+C:\Users\PComputer\Desktop\AracKiralama\AracKiralama.Entities\obj\Debug\AracKiralama.Entities.pdb
+C:\Users\cenk\Desktop\AracKiralama\AracKiralama.Entities\bin\Debug\AracKiralama.Entities.dll
+C:\Users\cenk\Desktop\AracKiralama\AracKiralama.Entities\bin\Debug\AracKiralama.Entities.pdb
+C:\Users\cenk\Desktop\AracKiralama\AracKiralama.Entities\obj\Debug\AracKiralama.Entities.csprojAssemblyReference.cache
+C:\Users\cenk\Desktop\AracKiralama\AracKiralama.Entities\obj\Debug\AracKiralama.Entities.csproj.CoreCompileInputs.cache
+C:\Users\cenk\Desktop\AracKiralama\AracKiralama.Entities\obj\Debug\AracKiralama.Entities.dll
+C:\Users\cenk\Desktop\AracKiralama\AracKiralama.Entities\obj\Debug\AracKiralama.Entities.pdb
